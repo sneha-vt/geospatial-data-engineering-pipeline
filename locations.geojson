@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "locations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "location_id": 1, "city": "Berlin", "country": "Germany", "latitude": 52.52, "longitude": 13.405 }, "geometry": { "type": "Point", "coordinates": [ 13.405, 52.52 ] } },
+{ "type": "Feature", "properties": { "location_id": 2, "city": "Hamburg", "country": "Germany", "latitude": 53.5511, "longitude": 9.9937 }, "geometry": { "type": "Point", "coordinates": [ 9.9937, 53.5511 ] } },
+{ "type": "Feature", "properties": { "location_id": 3, "city": "Munich", "country": "Germany", "latitude": 48.1351, "longitude": 11.582 }, "geometry": { "type": "Point", "coordinates": [ 11.582, 48.1351 ] } },
+{ "type": "Feature", "properties": { "location_id": 4, "city": "Copenhagen", "country": "Denmark", "latitude": 55.6761, "longitude": 12.5683 }, "geometry": { "type": "Point", "coordinates": [ 12.5683, 55.6761 ] } },
+{ "type": "Feature", "properties": { "location_id": 5, "city": "Auckland", "country": "New Zealand", "latitude": -36.8509, "longitude": 174.7645 }, "geometry": { "type": "Point", "coordinates": [ 174.7645, -36.8509 ] } },
+{ "type": "Feature", "properties": { "location_id": 6, "city": "Wellington", "country": "New Zealand", "latitude": -41.2866, "longitude": 174.7756 }, "geometry": { "type": "Point", "coordinates": [ 174.7756, -41.2866 ] } },
+{ "type": "Feature", "properties": { "location_id": 7, "city": "Paris", "country": "France", "latitude": 48.8566, "longitude": 2.3522 }, "geometry": { "type": "Point", "coordinates": [ 2.3522, 48.8566 ] } },
+{ "type": "Feature", "properties": { "location_id": 8, "city": "Amsterdam", "country": "Netherlands", "latitude": 52.3676, "longitude": 4.9041 }, "geometry": { "type": "Point", "coordinates": [ 4.9041, 52.3676 ] } }
+]
+}
